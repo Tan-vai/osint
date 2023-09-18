@@ -26,7 +26,7 @@ python osint
  
 # Normal install 
 cd $HOME
-git clone https://github.com/TermuxHackz/X-osint
-cd X-osint
+git clone https://github.com/Tan-vai/osint
+cd osint
 chmod +x *
 bash setup.sh 
