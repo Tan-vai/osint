@@ -1,19 +1,19 @@
 # osint
 Great Tools
 # FUTURES 
-IP Address information gathering
-Email Address information gathering
-Phone number information gathering
-Host finding
-Ports finding
-Subdomain Enumeration
-CVE Exploits Finder
-Email Finder
-Exploit Open Source Vulnerability Database
-DNS Lookup
-DNS Reverse
-Vin extractor
-Protonmail OSINT And many more...
+•IP Address information gathering
+•Email Address information gathering
+•Phone number information gathering
+•Host finding
+•Ports finding
+•Subdomain Enumeration
+•CVE Exploits Finder
+•Email Finder
+•Exploit Open Source Vulnerability •Database
+•DNS Lookup
+•DNS Reverse
+•Vin extractor
+•Protonmail OSINT And many more...
 # Installation in termux
 cd $HOME
 git clone https://github.com/Tan-vai/osint
