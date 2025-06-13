@@ -58,5 +58,5 @@ It is a modular framework offering multiple recon & information extraction featu
 ```bash
 git clone https://github.com/Tan-vai/osint
 cd osint
-chmod +x osint.py
-python3 osint.py
+chmod +x osint
+python3 osint
